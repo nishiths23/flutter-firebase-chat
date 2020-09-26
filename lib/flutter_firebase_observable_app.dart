@@ -1,6 +1,6 @@
-/**
- * created by Nishith on 26/09/20.
- */
+//
+// created by Nishith.
+//
 
 import 'package:flutter/material.dart';
 import 'package:flutter_firebase_chat_sdk/flutter_firebase_chat_sdk.dart';

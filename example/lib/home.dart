@@ -1,6 +1,6 @@
-/**
- * created by Nishith on 20/09/20.
- */
+//
+// created by Nishith.
+//
 
 import 'package:example/chat.dart';
 import 'package:flutter/cupertino.dart';

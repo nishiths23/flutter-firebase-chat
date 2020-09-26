@@ -1,6 +1,6 @@
-/**
- * created by Nishith on 20/09/20.
- */
+//
+// created by Nishith.
+//
 
 import 'package:cloud_functions/cloud_functions.dart';
 import 'package:flutter_firebase_chat_sdk/auth/auth.dart';
