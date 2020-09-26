@@ -1,4 +1,7 @@
 # flutter_firebase_chat_sdk
+[![GitHub license](https://img.shields.io/github/license/nishiths23/flutter-firebase-chat)](https://github.com/nishiths23/flutter-firebase-chat/blob/master/LICENSE)
+![Pub Version](https://img.shields.io/pub/v/flutter_firebase_chat_sdk)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/nishiths23/flutter-firebase-chat/Dart%20CI)
 
 A package that used the power of firebase to create a chat SDK.
 
