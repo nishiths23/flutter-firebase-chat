@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
 
 ```
 match /{path=**}/Channels/{channelId} {
-    	allow read, writw: if request.auth != null
+    	allow read, write: if request.auth != null
     }
 ```
 
