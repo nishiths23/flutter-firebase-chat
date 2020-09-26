@@ -2,7 +2,7 @@ name: flutter_firebase_chat_sdk
 description: A package that used the power of firebase to create a chat SDK. Motivation behind
   this project was to create an all in one sdk that would make it easier for developers to create
   a chat app. Using this SDK developers can focus on the basic functionality of their app rather then worrying about setting up and developing a chat server. The project is still in development phase but you are welcome to use it in your app and contribute to the project if you needed some more features or if you would like to improve something.
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/nishiths23/flutter-firebase-chat
 
 environment:
