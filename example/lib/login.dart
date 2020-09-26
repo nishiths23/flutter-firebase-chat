@@ -39,8 +39,7 @@ class Login extends HookWidget {
                   showLoading.value = true;
                   final userId = await Auth.signIn(emailTextController.text, passwordTextController.text);
                   if (userId != null) {
-                    Navigator.of(context)
-                        .pushReplacement(MaterialPageRoute<void>(builder: (BuildContext context) => Home()));
+                    Navigator.of(context).pushReplacement(MaterialPageRoute<void>(builder: (BuildContext context) => Home()));
                   } else {
                     Toast.show('Unable to sign in', context);
                   }
